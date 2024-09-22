@@ -1,5 +1,15 @@
-## Hi there 👋
+Hi, I'm Asmaa Zahran!
+Data Analyst | Python | SQL | Excel
 
+With a background in Computer Science and Mathematics from Ain Shams University, I have a passion for data analysis and problem-solving. Currently, I’m working at TEA Computers as a Technical Application Support, where I leverage my skills to ensure efficient system operations and user satisfaction.
+
+I’m also proficient in:
+
+- Python, SQL, Excel, Power BI for data analysis and visualization
+- Data Collection, EDA, and Data Cleaning
+- Technical Support and troubleshooting
+
+I'm continuously expanding my knowledge and love collaborating on fintech and data-driven projects. Open to new opportunities and always ready to connect!
 <!--
 **Asmaa-Zahran/Asmaa-Zahran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
